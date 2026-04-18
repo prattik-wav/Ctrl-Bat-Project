@@ -1,5 +1,5 @@
-# Grade-12-projects
-A hand cricket game code
+# Ctrl+Bat (WIP)
+An ambitious hand cricket game project
 Required modules: random, openpyxl, time, pandas, pygame, pwinput, builtins, sys, os, json, rich
 Required: assets
 Fully functional code with SQL integration 
